@@ -38,7 +38,7 @@ object Stream2 {
     val df = spark.createDataFrame(spark.sparkContext
       .emptyRDD[Row], schema)
 	  
-	//merges all columns used in our model into a vector column
+	//merge all columns used in our model into a vector column
     val assembler = new VectorAssembler().
       setInputCols(df.select("thickness", "size", "shape", "madh", "epsize", "bnuc", "bchrom", "nNuc", "mit").columns)
       .setOutputCol("features")
