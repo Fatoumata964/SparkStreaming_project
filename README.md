@@ -1,6 +1,6 @@
 # SparkStreaming_project
 Here we are implementing a Fast Data solution to predict cancer disease risks in real time.
-The data used during this project is available here: https://github.com/diattara/etudidant/blob/main/cancer.csv
+The data used during this project is available here: https://github.com/aaaaaa/etudidant/blob/main/cancer.csv
 
 <img width="506" alt="dash4" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/e0e5d6d3-75af-4aa1-8b66-287ae4675dd9">
 
