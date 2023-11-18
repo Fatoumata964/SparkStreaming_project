@@ -45,7 +45,7 @@ object Stream2 {
 	  
     //readStream to read data from Kafka and load it
     val dfstreaming =spark.readStream.format("kafka")
-      .option("kafka.bootstrap.servers", "51.77.212.74:9092")
+      .option("kafka.bootstrap.servers", "00.00.000.00:9092")
       .option("subscribe", Seq("listening3","listening2","listening1" )mkString(", "))
       .option("group.id", "spark_faan_cancerology_regressionlogistic1")
       .option("startingOffsets", "latest")
