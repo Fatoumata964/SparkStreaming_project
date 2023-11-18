@@ -5,7 +5,7 @@ The data used during this project is available here: https://github.com/aaaaaa/e
 <img width="506" alt="dash4" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/e3069845-6496-4a56-a5a7-12149cf7f577">
 
 We used the following architecture for this:
-<img width="473" alt="Architecture" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/3f1a0feb-1113-443d-ad1b-98da79ef3f9a">
+
 
 
 * nifi-1.23.1
