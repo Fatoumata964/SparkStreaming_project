@@ -894,7 +894,7 @@
                 <properties>
                     <entry>
                         <key>bootstrap.servers</key>
-                        <value>51.77.212.74:9092</value>
+                        <value>00.00.000.00:9092</value>
                     </entry>
                     <entry>
                         <key>topic</key>
@@ -1199,7 +1199,7 @@
                 <properties>
                     <entry>
                         <key>elasticsearch-http-url</key>
-                        <value>http://51.77.212.74:9200</value>
+                        <value>http://00.00.000.00:9200</value>
                     </entry>
                     <entry>
                         <key>SSL Context Service</key>
@@ -1540,7 +1540,7 @@
                 <properties>
                     <entry>
                         <key>bootstrap.servers</key>
-                        <value>51.77.212.74:9092</value>
+                        <value>00.00.000.00:9092</value>
                     </entry>
                     <entry>
                         <key>topic</key>
@@ -2022,7 +2022,7 @@
                 <properties>
                     <entry>
                         <key>bootstrap.servers</key>
-                        <value>51.77.212.74:9092</value>
+                        <value>00.00.000.00:9092</value>
                     </entry>
                     <entry>
                         <key>topic</key>
@@ -2406,7 +2406,7 @@
                 <properties>
                     <entry>
                         <key>bootstrap.servers</key>
-                        <value>51.77.212.74:9092</value>
+                        <value>00.00.000.00:9092</value>
                     </entry>
                     <entry>
                         <key>topic</key>
