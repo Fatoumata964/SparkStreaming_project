@@ -2,10 +2,12 @@
 Here we are implementing a Fast Data solution to predict cancer disease risks in real time.
 The data used during this project is available here: https://github.com/aaaaaa/etudidant/blob/main/cancer.csv
 
-<img width="506" alt="dash4" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/e0e5d6d3-75af-4aa1-8b66-287ae4675dd9">
+<img width="506" alt="dash4" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/e3069845-6496-4a56-a5a7-12149cf7f577">
 
 We used the following architecture for this:
-<img width="473" alt="Architecture" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/ae3b27d4-a0ad-49b6-bd6a-7715ff6a4b99">
+<img width="473" alt="Architecture" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/3f1a0feb-1113-443d-ad1b-98da79ef3f9a">
+
+
 * nifi-1.23.1
 * kafka-3.6.0
 * sparkVersion = "3.0.0"
@@ -13,6 +15,7 @@ We used the following architecture for this:
 
 
 We obtain the following results via OpenSearch:
-<img width="950" alt="dash3" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/33b616ba-2e39-4ef9-86ed-4dc9c8f2eec5">
+<img width="950" alt="dash3" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/dabe868b-7c8c-4c40-95eb-59248ecf1314">
 
-<img width="562" alt="Dash2" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/298ebaa3-9692-4103-a3a1-885faca84155">
+<img width="562" alt="Dash2" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/0e5bb1ea-2b35-44a5-9b3d-29d7e5375c27">
+
