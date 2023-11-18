@@ -7,7 +7,7 @@ The data used during this project is available here: https://github.com/aaaaaa/e
 We used the following architecture for this:
 <img width="473" alt="Architecture" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/ae3b27d4-a0ad-49b6-bd6a-7715ff6a4b99">
 * nifi-1.23.1
-* kafka-0.7.1
+* kafka-3.6.0
 * sparkVersion = "3.0.0"
 * scalaVersion := "2.12.10"
 
