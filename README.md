@@ -2,10 +2,25 @@
 Here we are implementing a Fast Data solution to predict cancer disease risks in real time.
 The data used during this project is available here: https://github.com/aaaaaa/etudidant/blob/main/cancer.csv
 
-<img width="506" alt="dash4" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/e3069845-6496-4a56-a5a7-12149cf7f577">
+For each cancer observation, we have the following informations:
+* Sample code number: id number
+* Clump Thickness: 1 - 10
+* Uniformity of Cell Size: 1 - 10
+* Uniformity of Cell Shape: 1 - 10
+* Marginal Adhesion: 1 - 10
+* Single Epithelial Cell Size: 1 -10
+* Bare Nuclei: 1 - 10
+* Bland Chromatin: 1 - 10
+* Normal Nucleoli: 1 -10
+* Mitoses: 1 -10
+* Class: (2 for benign, 4 for malignant)
+  
+
+
 
 We used the following architecture for this:
 
+<img width="409" alt="Archi" src="https://github.com/Fatoumata964/SparkStreaming_project/assets/60388963/f5683efe-e8bb-4782-8e4e-bb3909742fcc">
 
 
 * nifi-1.23.1
